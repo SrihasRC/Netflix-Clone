@@ -1,2 +1,4 @@
 # Netflix Clone
-https://srhsflix.netlify.app/
+okay, not so much just used HTML and CSS
+
+bye!
