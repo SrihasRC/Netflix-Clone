@@ -1,2 +1,2 @@
 # Netflix Clone
- My first clone
+https://srhsflix.netlify.app/
