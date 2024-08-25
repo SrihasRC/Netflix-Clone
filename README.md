@@ -1,4 +1,4 @@
 # Netflix Clone
-okay, not so much just used HTML and CSS
+okay, not so much just used HTML and CSS :)
 
-bye!
+bye!!!
